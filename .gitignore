@@ -43,3 +43,14 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Ignore platform-specific files
+/linux/
+/macos/
+/windows/
+
+# Ignore CMake-related files
+*.cmake
+CMakeLists.txt
+/build/
+
