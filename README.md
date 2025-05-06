@@ -1,6 +1,6 @@
-# flutter_application_1
+# BMI Calculator
 
-A new Flutter project.
+This is an application made to track Body Mass Index. The app is made using Flutter for cross platforms with a single codebase
 
 ## Getting Started
 
