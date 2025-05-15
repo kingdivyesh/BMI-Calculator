@@ -2,6 +2,13 @@
 
 This is an application made to track Body Mass Index. The app is made using Flutter for cross platforms with a single codebase
 
+## 📲 Download the App
+
+You can download the latest version of the BMI Calculator app from the link below:
+
+[Click here to download APK](https://github.com/kingdivyesh/BMI-Calculator/releases/download/v1.0.0.0/app-release.apk)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
