@@ -4,9 +4,8 @@ This is an application made to track Body Mass Index. The app is made using Flut
 
 ## 📲 Download the App
 
-You can download the latest version of the BMI Calculator app from the link below:
+[![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge)](https://github.com/kingdivyesh/BMI-Calculator/releases/download/v1.0.0.0/app-release.apk)
 
-[Click here to download APK](https://github.com/kingdivyesh/BMI-Calculator/releases/download/v1.0.0.0/app-release.apk)
 
 
 ## Getting Started
