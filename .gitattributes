@@ -1,0 +1,4 @@
+/web/index.html linguist-vendored
+/web/**/*.html linguist-vendored
+*.css linguist-vendored
+*.js linguist-vendored
